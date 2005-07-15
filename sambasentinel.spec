@@ -4,9 +4,7 @@ Name:		sambasentinel
 Version:	0.1
 Release:	1
 License:	GPL v2
-Group:		Networking/Tool
-######		Unknown group!
-######		Unknown group!
+Group:		Networking/Utilities
 Source0:	http://homepage.mac.com/mattsash/fink/SambaSentinel-%{version}.tar.gz
 # Source0-md5:	f9213946e051ec0491e21ae1d13de9cf
 URL:		http://kling.mine.nu/sambasentinel.htm
