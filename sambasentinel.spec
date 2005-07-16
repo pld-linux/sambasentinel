@@ -1,5 +1,5 @@
-Summary:	SambaSentinel is basically a gtk-frontend to smbstatus
-Summary(pl):	SambaSentinel to prosty interface do smbstatus
+Summary:	SambaSentinel - a GTK+ frontend to smbstatus
+Summary(pl):	SambaSentinel - interfejs GTK+ do smbstatus
 Name:		sambasentinel
 Version:	0.1
 Release:	1
@@ -22,13 +22,13 @@ it with number of useful features such as:
 - Mount and browse a visiting computer (with jags).
 
 %description -l pl
-SambaSentinel to prosty interface do smbstatus, ale rozszerzaj±cy go
-kilkoma urzytecznymi dodatkami, takimi jak:
+SambaSentinel to zasadniczo interfejs GTK+ do smbstatus, ale
+rozszerzaj±cy go o wiele u¿ytecznych mo¿liwo¶ci, takich jak:
 - Zabijanie procesów samby prostym klikniêciem myszki.
-- Wielow±tkowo¶æ (jeden w±tek dla interfacu graficznego o jeden dla
-  uruchomionych smbstatus/updating).
+- Wielow±tkowo¶æ (jeden w±tek dla interfejsu graficznego, jeden dla
+  uruchomiania smbstatus/uaktualniania).
 - Podgl±d z których plików korzystaj± poszczególni u¿ytkownicy.
-- Montowanie i przegl±danie komputerów (z wyk. jags)
+- Montowanie i przegl±danie komputerów (z u¿yciem jags).
 
 %prep
 %setup -q -n SambaSentinel
