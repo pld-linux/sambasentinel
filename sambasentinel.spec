@@ -1,5 +1,5 @@
 Summary:	SambaSentinel - a GTK+ frontend to smbstatus
-Summary(pl.UTF-8):   SambaSentinel - interfejs GTK+ do smbstatus
+Summary(pl.UTF-8):	SambaSentinel - interfejs GTK+ do smbstatus
 Name:		sambasentinel
 Version:	0.1
 Release:	1
